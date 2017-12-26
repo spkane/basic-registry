@@ -1,0 +1,4 @@
+config.yml
+registry.crt
+registry.key
+htpasswd
