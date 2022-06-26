@@ -1,4 +1,4 @@
-FROM registry:2.6
+FROM registry:2.8
 
 ADD config.yml /etc/docker/registry/config.yml
 ADD registry.crt /certs/registry.crt
